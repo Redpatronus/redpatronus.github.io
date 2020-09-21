@@ -4,10 +4,6 @@
     <title>Tags on </title>
     <link>http://redpatronus.com/tags/</link>
     <description>Recent content in Tags on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="http://redpatronus.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://redpatronus.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
